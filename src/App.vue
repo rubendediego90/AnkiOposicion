@@ -3,7 +3,7 @@
 </script>
 <template>
   <div class="app">
-    hola mundo
+    hola mundo v2
   </div>
 </template>
 
